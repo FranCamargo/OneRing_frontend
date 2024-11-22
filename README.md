@@ -12,5 +12,5 @@ Funcionalidades implementadas:
 Aprimoramentos em andamento:
 * Conexão entre salas com WebSocket.
 * Migração para framework Angular.
-* Chatbox dividida do lado esquerdo para enviados e recebidos do lado direito
+* Chatbox dividida do lado esquerdo para enviados e recebidos do lado direito da tela.
 * Implantação de status de conexão no canto inferior esquerdo do Chatbox.
